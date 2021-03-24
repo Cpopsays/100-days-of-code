@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### R1D3 March 24, 2021
+**Today's Progress**: Started first class on freecodecamp.com building a cat photo app. 
+**Link to work:** 
+1. [Started this Class: Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5)
+2. [worked up to this point] (https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph)
+
 ### R1D2 March 23, 2021
 **Today's Progress**: Reviewed week 3 RAD Women class (sObjects, DML) by watching the recording and coding along. WeekThreeClassExercises.sObjects(); 
 
