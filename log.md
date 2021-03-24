@@ -3,7 +3,7 @@
 ### R1D2 March 23, 2021
 **Today's Progress**: Reviewed week 3 RAD Women class (sObjects, DML) by watching the recording and coding along. WeekThreeClassExercises.sObjects(); 
 
-**Thoughts:** My bar for success is low - goal is 30 minutes every day. 
+**Thoughts:** 
 
 **Link to work:** coming soon
 
