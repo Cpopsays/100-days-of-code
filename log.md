@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+
+### R1D5 March 26, 2021
+**Today's Progress**: Completed 25% of the " Learn Basic CSS " class.          
+
+**Link to work:** 
+1. [Completed this today: Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
+2. [Music: Rain](https://www.youtube.com/watch?v=qJwPrKtHCv0)
+
 ### R1D4 March 25, 2021
 **Today's Progress**: Completed the " Basic HTML and HTML5 " class.          
 
