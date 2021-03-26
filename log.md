@@ -1,4 +1,10 @@
 # 100 Days Of Code - Log
+### R1D3 March 25, 2021
+**Today's Progress**: Completed the " Basic HTML and HTML5 " class. 
+**Link to work:** 
+1. [Completed this today: Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
+
+
 
 ### R1D3 March 24, 2021
 **Today's Progress**: Started first class on freecodecamp.com building a cat photo app. 
