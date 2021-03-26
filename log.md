@@ -4,10 +4,8 @@
 
 **Link to work:** 
 1. [Completed this today: Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
-
-**Listening to:**
-[Luke Combs] (https://www.youtube.com/watch?v=f_akFYKDA64&list=RDEMrIaLvfFJtk81aHLaO3h-Mw&index=10)
-
+**Link to work:** 
+1. [Country: Luke Combs](https://www.youtube.com/watch?v=f_akFYKDA64&list=RDEMrIaLvfFJtk81aHLaO3h-Mw&index=10)
 
 ### R1D3 March 24, 2021
 **Today's Progress**: Started first class on freecodecamp.com building a cat photo app. 
