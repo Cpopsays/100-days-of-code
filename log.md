@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+R1D6 March 27, 2021
+Today's Progress: I'm 40% through the " Learn Basic CSS " class. I've enjoyed learning about HTML and CSS - labeling what I already recognize. 
+
+Link to work:
+
+1. [Completed this today: CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element)
+2. [Music: HVOB](https://www.youtube.com/watch?v=XxSmY7VNaCk)
+
 ### R1D5 March 26, 2021
 **Today's Progress**: Completed 25% of the " Learn Basic CSS " class.          
 
