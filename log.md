@@ -1,9 +1,13 @@
 # 100 Days Of Code - Log
 
-R1D6 March 27, 2021
-Today's Progress: I'm 40% through the " Learn Basic CSS " class. I've enjoyed learning about HTML and CSS - labeling what I already recognize. 
+### R1D7 March 28, 2021
+**Today's Progress**: Today was coding group meetup. Read ["Getting Started with GitHub Pages"](https://guides.github.com/features/pages/). 
+**Tody's Music** [Ambient playlist](https://www.youtube.com/watch?v=oylPBsmE110&list=PLLrLB9o-spcyIjdc0w_pFpbWpCOXvkkmr)
 
-Link to work:
+### R1D6 March 27, 2021
+**Today's Progress**: I'm 40% through the " Learn Basic CSS " class. I've enjoyed learning about HTML and CSS - labeling what I already recognize. 
+
+**Link to work:**
 
 1. [Completed this today: CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element)
 2. [Music: HVOB](https://www.youtube.com/watch?v=XxSmY7VNaCk)
