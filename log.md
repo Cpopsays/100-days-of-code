@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-###R1D9 March 30, 2021
+### R1D9 March 30, 2021
 **Today's Progress**: Attended Copado DevOps Training webinar:  "International Women's Month: Elevating Women in DevOps " and wrote a [Hello World Trigger](https://github.com/Cpopsays/100-days-of-code/blob/CPOPRAD-branch-1/HelloWorldTrigger).Now that I understand how Git works I am excited to post more code. 
 
 ### R1D8 March 29, 2021
