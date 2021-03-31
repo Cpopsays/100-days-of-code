@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+###R1D9 March 30, 2021
+**Today's Progress**: Attended Copado DevOps Training webinar:  "International Women's Month: Elevating Women in DevOps " and wrote a Hello World Trigger.
+
 ### R1D8 March 29, 2021
 **Today's Progress**: Reviewed concepts in a badge I did last year [Apex Basics for Admins](https://trailhead.salesforce.com/content/learn/modules/apex-basics-for-admins) and started [Object Oriented Programming for Admins](https://trailhead.salesforce.com/content/learn/modules/object-oriented-programming-for-admins?trail_id=build-apex-coding-skills).
 
