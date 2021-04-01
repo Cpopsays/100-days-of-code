@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+[Link to my Apex notes and resources list:](https://docs.google.com/document/d/11q7dOthSrdU_LO_Gb22XEtDIs9BikWfwWKl1DDbcbmE/edit#)
+
+### R1D10 March 31,2021
+**Today's Progress** Read three articles and followed along in the Dev console.
+1. [How buying a major appliance can help you understand Object-Oriented Programming](http://womencodeheroes.com/2014/12/oop-terminology-explained-classes-variables-methods-objects/)
+2. [Cooking with Code: Primitive Data Types in Apex and Java](http://womencodeheroes.com/2015/01/cooking-with-code-primitive-data-types-in-apex-and-java/)
+3. [Cooking with Code: Amuse-bouche* of Apex Collections (Lists, Sets, and Maps)](http://womencodeheroes.com/2015/01/cooking-with-code-amuse-bouche-of-apex-collections-lists-sets-and-maps/)
+4. My code isn't working so I am not going to post it. 
 
 ### R1D9 March 30, 2021
 **Today's Progress**: Attended Copado DevOps Training webinar:  "International Women's Month: Elevating Women in DevOps " and wrote a [Hello World Trigger](https://github.com/Cpopsays/100-days-of-code/blob/CPOPRAD-branch-1/HelloWorldTrigger).Now that I understand how Git works I am excited to post more code. 
