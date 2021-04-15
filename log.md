@@ -6,10 +6,14 @@ In the Queue
 2. Apex Hours Salesforce Developer Playlist, [Day 2: Introduction to Class, Method, Static and OOPs Concept in Apex | Day 2](https://www.youtube.com/watch?v=TCxOlvxT8l4)
 
 ### R1D1 April 14, 2021
-I will resume the 100 days of code challenge on April 15th, 2021. Got off my routine for a little over one week. Decided to start over rather than resume from day 14. Because posting about the coding challenge on Linked In AND Twitter is too time consuming and distracting, I'll only post updates on Twitter and I will be following a more structured plan:
+I will resume the 100 days of code challenge on April 15th, 2021. Got off my routine for a little over one week. Decided to start over rather than resume from day 14. I'll only post daily updates on Twitter, with occasional posts to LinkedIn, and I will be following a more structured plan:
+
+* I will complete this one hour of professional development in the morning **before I start work for the day.**
+* Get up when alarm clock goes off
 * 30 minutes coding or related topic.
 * 30 minutes preparing for Platform App builder exam. 
-* I will complete this one hour of professional development in the morning **before I start work for the day.**
+
+The discipline required to follow a structured learning routine for 100 days - very reasonable goal of 1 hour a day - I will be capable of tackling bigger goals in the future that require greater levels of discipline, structure, and focus. 
 
 ### R1D14 April 5, 2021
 1. Reviewed [David K Liu's Apex Academy Test Classes module on Pluralsight platform](https://www.pluralsight.com)
