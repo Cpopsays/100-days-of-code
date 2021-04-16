@@ -5,7 +5,12 @@ In the Queue
 1. Finish Apex Hours [Mitch Spano - Trigger Action Framework](https://www.youtube.com/watch?v=lP615lsfRsI&t=78s)
 2. Apex Hours Salesforce Developer Playlist, [Day 2: Introduction to Class, Method, Static and OOPs Concept in Apex | Day 2](https://www.youtube.com/watch?v=TCxOlvxT8l4)
 
-### R1D1 April 14, 2021
+### R1D1 April 15, 2021
+1. Read through the RAD Women Code April challenge, looked up unfamiliar concepts in Salesforce Developer Documentation.
+2. I read about logicless Apex trigger handler structure. 
+3. Studied "Salesforce Fundamentals" section of Platform App Builder Exam and chose an exam date (5/22/21)
+
+### R1D0 April 14, 2021
 I will resume the 100 days of code challenge on April 15th, 2021. Got off my routine for a little over one week. Decided to start over rather than resume from day 14. I'll only post daily updates on Twitter, with occasional posts to LinkedIn, and I will be following a more structured plan:
 
 * I will complete this one hour of professional development in the morning **before I start work for the day.**
