@@ -4,6 +4,9 @@
 In the Queue 
 2. Apex Hours Salesforce Developer Playlist, [Day 2: Introduction to Class, Method, Static and OOPs Concept in Apex | Day 2](https://www.youtube.com/watch?v=TCxOlvxT8l4)
 
+### R1D5 & 6
+1. Completed [Data Creation for RAD April Challenge] (https://github.com/Cpopsays/RADWomenApril2021/blob/main/Data%20Creation)
+
 ### R1D4 Had an interesting discussion with my brother who is a software engineer at the Genomics Institute at UC Santa Cruz about how he approaches new coding problems. We discussed the RAD Women monthly coding challenge for April and how we could employ "defensive coding" strategies to ensure that our code could scale with evolving business processes. 
 
 ### R1D2-3 4/16/21-4/17/21
