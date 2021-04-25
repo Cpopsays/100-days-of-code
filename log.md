@@ -4,6 +4,10 @@
 In the Queue 
 2. Apex Hours Salesforce Developer Playlist, [Day 2: Introduction to Class, Method, Static and OOPs Concept in Apex | Day 2](https://www.youtube.com/watch?v=TCxOlvxT8l4)
 
+### R1D7 & 8 
+1. Added a few more records for monthly coding challenge  
+2. Sketched out solution ideas
+
 ### R1D5 & 6
 1. Completed [Data Creation for RAD April Challenge] (https://github.com/Cpopsays/RADWomenApril2021/blob/main/Data%20Creation)
 
