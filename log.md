@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 * [Link to my Apex notes and resources list](https://docs.google.com/document/d/11q7dOthSrdU_LO_Gb22XEtDIs9BikWfwWKl1DDbcbmE/edit#)
 * Look this up when done with april coding challenge: [subflow that turns format from multiselect picklist to reg picklist](https://salesforcesidekick.com/2016/11/07/parse-a-multi-select-value-in-visual-flow-unmanaged-package-included/)
+* * and rewatch [the recording of session where used](https://trailhead.salesforce.com/live/videos/a2r3k000001vCmP/awesome-admins-automate-build-decision-logic-and-screen-flows/)
 
 
 
